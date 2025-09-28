@@ -1,19 +1,18 @@
-# About-Elkin-Jimenez
+<h1 align="center">Hi 👋, I'm Elkin</h1>
+<p align="center">Full Stack Developer</p>
 
-Hi i'm Elkin Jimenez Full Stack developer with focus on ReactJs, Java (SpringBoot), PostgresSql and Dockerized enviroments 
-
-
+#
 ## Experience 💼
 
 I have 1.5 years of experience building web applications, focusing on backend development, API integration, and user-friendly solutions.
+<br>
 
 - 🦷 **Dental Appointment Manager** – Developed a web application for a dental clinic, including a **messaging system** to improve communication between patients and staff.  
 - 🌱 **Ecoafa Company Website** – Designed and deployed a corporate website to strengthen the company’s online presence.  
 - 🔗 **API Integrations** – Implemented and consumed multiple APIs to extend functionality and connect services seamlessly.  
 - 📑 **Electronic Invoicing Project** – Currently working on a personal project integrating the **Factus API** for electronic invoicing, including connection with the **DIAN** (Colombian tax authority).  
 
-
-
+<br>
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
