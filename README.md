@@ -7,7 +7,7 @@
 I have 1.5 years of experience building web applications, focusing on backend development, API integration, and user-friendly solutions.
 <br>
 
-- 🦷 **Dental Appointment Manager** – Developed a web application for a dental clinic, including a **messaging system** to improve communication between patients and staff.  
+- 🦷 **Dental Appointment Manager** – Developed a web application with focus in a dental clinic, including a **messaging system** to improve communication between patients and staff.  
 - 🌱 **Ecoafa Company Website** – Designed and deployed a corporate website to strengthen the company’s online presence.  
 - 🔗 **API Integrations** – Implemented and consumed multiple APIs to extend functionality and connect services seamlessly.  
 - 📑 **Electronic Invoicing Project** – Currently working on a personal project integrating the **Factus API** for electronic invoicing, including connection with the **DIAN** (Colombian tax authority).  
