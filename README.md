@@ -4,13 +4,16 @@
 #
 ## Experience 💼
 
-I have 1.5 years of experience building web applications, focusing on backend development, API integration, and user-friendly solutions.
+Más de 1.5 años de experiencia traduciendo reglas de negocio complejas como la normativa fiscal de la DIAN o el estándar financiero ISO 20022 en código limpio, eficiente y soluciones listas para producción con Angular y React.
 <br>
+## Projects
+🚀 FinNode: Motor de pagos distribuido y core bancario basado en microservicios, diseñado bajo el estándar ISO 20022 con procesamiento de eventos en tiempo real para mitigar fraudes financieros.
 
-- 🦷 **Dental Appointment Manager** – Developed a web application with focus in a dental clinic, including a **messaging system** to improve communication between patients and staff.  
-- 🌱 **Ecoafa Company Website** – Designed and deployed a corporate website to strengthen the company’s online presence.  
-- 🔗 **API Integrations** – Implemented and consumed multiple APIs to extend functionality and connect services seamlessly.  
-- 📑 **Electronic Invoicing Project** – Currently working on a personal project integrating the **Factus API** for electronic invoicing, including connection with the **DIAN** (Colombian tax authority).  
+📑 Sistema de Facturación Electrónica: Plataforma Full-Stack integrada con la API de Factus para automatizar la emisión, procesamiento seguro y validación de comprobantes fiscales directamente ante la DIAN.
+
+🌱 Ecoflora: Sitio web corporativo y técnico desarrollado a la medida para el sector ambiental, completamente desplegado en producción y optimizado para SEO y rendimiento adaptivo.
+
+🦷 Dental Appointment Manager: Aplicación web de gestión clínica orientada a optimizar el agendamiento de citas médicas mediante un módulo centralizado de mensajería interactiva entre pacientes y personal.  
 
 <br>
 
@@ -31,6 +34,10 @@ I have 1.5 years of experience building web applications, focusing on backend de
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## 📈 GitHub Stats
 
