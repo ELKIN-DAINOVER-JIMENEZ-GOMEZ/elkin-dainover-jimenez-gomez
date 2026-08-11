@@ -4,7 +4,7 @@
 #
 ## Experience 💼
 
-Más de 1.5 años de experiencia traduciendo reglas de negocio complejas como la normativa fiscal de la DIAN o el estándar financiero ISO 20022 en código limpio, eficiente y soluciones listas para producción con Angular y React.
+1 año de experiencia traduciendo reglas de negocio complejas como la normativa fiscal de la DIAN o el estándar financiero ISO 20022 en código limpio, eficiente y soluciones listas para producción con Angular y React.
 <br>
 ## Projects
 🚀 FinNode: Motor de pagos distribuido y core bancario basado en microservicios, diseñado bajo el estándar ISO 20022 con procesamiento de eventos en tiempo real para mitigar fraudes financieros.
