@@ -4,12 +4,12 @@
 #
 ## Experience 💼
 
-1 año de experiencia traduciendo reglas de negocio complejas como la normativa fiscal de la DIAN o el estándar financiero ISO 20022 en código limpio, eficiente y soluciones listas para producción con Angular y React.
+Experiencia práctica desarrollando soluciones full-stack aplicando reglas de negocio complejas, como la normativa fiscal de la DIAN, en código limpio, eficiente y listo para producción con Angular y React.
 <br>
 ## Projects
-🚀 FinNode: Motor de pagos distribuido y core bancario basado en microservicios, diseñado bajo el estándar ISO 20022 con procesamiento de eventos en tiempo real para mitigar fraudes financieros.
+🚀 FinNode: Motor de pagos distribuido y core bancario basado en microservicios, con procesamiento de eventos en tiempo real (patrón Saga) y un módulo de detección de fraude basado en IA.
 
-📑 Sistema de Facturación Electrónica: Plataforma Full-Stack integrada con la API de Factus para automatizar la emisión, procesamiento seguro y validación de comprobantes fiscales directamente ante la DIAN.
+📑 Sistema de Facturación Electrónica: Plataforma Full-Stack que automatiza la emisión de comprobantes fiscales integrando la API de Factus, la cual gestiona la firma digital y el cumplimiento normativo ante la DIAN.
 
 🌱 Ecoflora: Sitio web corporativo y técnico desarrollado a la medida para el sector ambiental, completamente desplegado en producción y optimizado para SEO y rendimiento adaptivo.
 
