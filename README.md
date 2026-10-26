@@ -14,7 +14,7 @@ Desarrollador de software enfocado en backend con Java y Spring Boot: microservi
 
 📑 **Sistema de Facturación Electrónica**: Plataforma web full-Stack que automatiza la emisión de comprobantes fiscales, integrando la API de Factus, que gestiona la firma digital y el cumplimiento normativo ante la DIAN.
 
-🌱 **Ecoafa**: Sitio web corporativo y técnico desarrollado a la medida para el sector ambiental, desplegado en producción y optimizado para SEO y diseño responsive.
+🌱 **Ecoafa**: Sitio web desarrollado a la medida para el sector ambiental, desplegado en producción y optimizado para SEO y diseño responsive.
 
 🦷 **Dental Appointment Manager**: Aplicación web de gestión clínica que optimiza el agendamiento de citas médicas mediante un módulo centralizado de mensajería interactiva entre pacientes y personal.
 
